@@ -1,3 +1,5 @@
+# go-URL-shortener - ...on going studying project...
+
 # go-musthave-shortener-tpl
 
 Шаблон репозитория для трека «Сервис сокращения URL».
